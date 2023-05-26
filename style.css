@@ -135,7 +135,7 @@ header .animales {
  }
 .countdown {
     background-color: var(--color-secundario);
-    color: var(--color-principal);
+    color: var(--color-terciario);
     text-align: center;
     height: 10vh;
     display: flex;
